@@ -1,4 +1,3 @@
 This is first file
-today I have a change
 Password
-new text
+text
